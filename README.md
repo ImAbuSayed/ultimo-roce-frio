@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ultimo-roce-frio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Último roce frío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultimo-roce-frio/) |
+| **Get License** | [License this song: Último roce frío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultimo-roce-frio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, apaga el teléfono y pierde el control
+> Que esta noche la pasamos a puro sudor
+> Un roce prohibido en la zona VIP
+> You know I got you, ven pégate a mí
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
