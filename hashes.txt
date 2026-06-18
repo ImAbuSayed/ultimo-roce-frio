@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Último roce frío
+
+This log tracks the cryptographic history and versioning for the song **Último roce frío** (ultimo-roce-frio).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:58:41.664508 | `v1` | `41be1639ee798a2df6dd9eb1c282253f5f4c7aeaade0b578bb1fa5ddc059e711` | `49120af1cd38ca42022e93bce0e66d519475b3e19ab268995d26a15be5ab04ea` | `2026-06-18_ultimo-roce-frio-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
